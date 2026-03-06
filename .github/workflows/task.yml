@@ -1,0 +1,24 @@
+name: 定时触发扣子智能体
+
+on:
+  schedule:
+    - cron: '0 8 * * *'  # 每天UTC 0点（北京时间8点）
+    - cron: '0 1 * * *' # 每天UTC 4点（北京时间12点）
+  workflow_dispatch:  # 支持手动触发
+
+jobs:
+  trigger-coze:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 调用扣子Webhook
+        run: |
+          curl -X POST 'https://api.coze.cn/v1/workflow/stream_run' \
+               -H "Authorization: Bearer cztei_lwUdBztkEuTKHmelpvWOIxG3Oybplw2RJgktzJYoMwSal9wnzLXdgA8w6EkGJy2Q8" \
+               -H "Content-Type: application/json" \
+            -d '{
+              "workflow_id": "7614026630902169634",
+              "parameters": {
+                "message": "定时消息：'"$(date +%Y-%m-%d)"'",
+                "target": "wechat"
+              }
+            }'
