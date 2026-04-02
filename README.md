@@ -1,53 +1,189 @@
-<div align="center">
+<!-- ========== 顶部视觉 ========== -->
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=fff1f2&height=200&section=header&text=Hello%20Kitty%20World!&fontSize=70&fontColor=fb7185&animation=twinkling" />
+<h1 align="center">你好，我是 积花云🌧 👋</h1>
+<h3 align="center">🚀 AI工程师 | 🧠 系统设计者 | ⚡ 技术构建者</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=fb7185&center=true&vCenter=true&width=435&lines=欢迎来到我的小宇宙+✨;很高兴遇见你呀+（●'◡'●）" />
+  <img src="https://img.shields.io/badge/专注-AI系统-black" />
+  <img src="https://img.shields.io/badge/方向-全栈%20%2B%20AI-blue" />
+  <img src="https://img.shields.io/badge/理念-先构建后优化-success" />
 </p>
 
 ---
 
-### 🎀 关于我 · About Me
+# 🧠 关于我
 
-**「 保持热爱，奔赴山海 」**
-
-🌷 **愿望**：写出像诗一样的代码
-🌱 **正在钻研**：[人工智能模块]
-🌸 **爱好**：摄影 / 钢琴 / 敲代码
-✉️ **捉住我**：[13188199221]@163.com
+```yaml
+name: 积花云🌧
+role: AI / 全栈开发者
+focus:
+  - AI智能体（Agents）
+  - 自动化系统（Automation）
+  - 全屋智能 + AI融合
+current:
+  - 基于 OpenClaw + Dify 的智能体系统
+  - AI驱动自动化工作流
+learning:
+  - 大模型工程（LLM Engineering）
+  - 分布式系统
+  - 云原生架构
+```
 
 ---
 
-### 🍡 我的技术甜点 · My Skills
+# ⚙️ 技术栈（结构化）
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=ffcfd2" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&color=d6e2ff" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=cfbaf0" />
-  <img src="https://img.shields.io/badge/ArkTS-007DFF?style=for-the-badge&logo=harmonyos&logoColor=white&color=b9fbc0" />
+## 🧩 核心语言
+
+```text
+Python ██████████
+JavaScript █████████
+TypeScript ████████
+```
+
+## 🧠 AI / 数据方向
+
+```text
+LLM · Prompt Engineering · RAG · LangChain · Dify · OpenClaw
+```
+
+## 🌐 后端
+
+```text
+Node.js · FastAPI · REST API · WebSocket · 微服务架构
+```
+
+## 🎨 前端
+
+```text
+React · Next.js · TailwindCSS · UI/UX优化
+```
+
+## ☁️ 运维 / 云原生
+
+```text
+Docker · Linux · GitHub Actions · CI/CD · Vercel · AWS
+```
+
+---
+
+# 🧬 系统设计思维
+
+```text
+用户 → 接口层 → AI智能体 → 工具层 → 执行 → 反馈闭环
+```
+
+💡 我的核心理念：
+
+* 系统优先，而不是单点功能
+* 自动化优先，而不是人工操作
+* AI增强人，而不是替代人
+
+---
+
+# 🚀 核心项目
+
+## 🧠 AI全屋智能体系统
+
+> 基于 OpenClaw + Dify 的智能控制方案
+
+* 🧩 多智能体协作
+* 🗣️ 自然语言控制设备
+* 🔐 云端安全策略
+
+```text
+技术栈：Python + Dify + OpenClaw + IoT
+```
+
+---
+
+## 🤖 自动化工作流引擎
+
+> 类AI助理的任务执行系统
+
+* 🔁 任务自动拆解
+* 🧠 LLM决策链
+* ⚡ 高效执行流程
+
+```text
+技术栈：FastAPI + LLM + Task Queue
+```
+
+---
+
+## 📊 数据智能分析平台
+
+> 数据处理与可视化系统
+
+* 📈 数据分析
+* 🧠 智能洞察
+* 📊 可视化面板
+
+```text
+技术栈：Python + Pandas + React
+```
+
+---
+
+
+# 🧭 当前重点
+
+```text
+→ 构建可落地的AI智能体系统
+→ 设计可扩展的软件架构
+→ 探索人机协同的新模式
+```
+
+---
+
+# 📈 成长路径
+
+```text
+2023 → 入门编程
+2024 → 全栈开发
+2025 → AI系统 + 自动化
+2026 → 进阶AI架构设计 🚀
+```
+
+---
+
+# 🧪 技术探索方向
+
+* 🔬 智能体记忆系统
+* 🤖 自主决策机制
+* 🧠 自进化工作流
+* ⚡ 边缘AI + IoT
+
+---
+
+# 🌐 联系方式
+
+```text
+GitHub: https://github.com/YourName
+邮箱: your@email.com
+博客: 持续建设中...
+```
+
+---
+
+# 🐍 贡献图动画
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YourName/YourName/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-### 📈 个人数据卡片 · Statistics
+# 🧠 技术理念
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=sakura&include_all_commits=true&count_private=true" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=sakura&hide_border=false" />
+> 「构建系统，而不是堆功能」
+>
+> 「自动化，才是真正的生产力」
+>
+> 「AI不是未来，而是现在」
 
 ---
 
-### 🧁 找我玩 · Contact Me
-
-<p>
-  <a href="你的博客地址">
-    <img src="https://img.shields.io/badge/Blog-个人博客-ffb7b2?style=flat-square&logo=Blogger&logoColor=white" />
-  </a>
-  <a href="你的社交平台地址">
-    <img src="https://img.shields.io/badge/Social-关注我-ffdac1?style=flat-square&logo=Instagram&logoColor=white" />
-  </a>
+<p align="center">
+  ⚡ 持续构建，持续进化 ⚡
 </p>
-
-<!-- <img src="https://komarev.com/ghpvc/?username=你的用户名&color=ffb7b2&style=flat-square&label=已有+COUNT+位小可爱到访" /> -->
-
-</div>
