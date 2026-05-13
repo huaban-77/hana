@@ -139,8 +139,8 @@ Docker · Linux · GitHub Actions · CI/CD · Vercel · AWS
 # 📈 成长路径
 
 ```text
-2023 → 入门编程
-2024 → 全栈开发
+2024 → 入门编程
+2025 → 鸿蒙开发
 2025 → AI系统 + 自动化
 2026 → 进阶AI架构设计 🚀
 ```
@@ -156,20 +156,10 @@ Docker · Linux · GitHub Actions · CI/CD · Vercel · AWS
 
 ---
 
-# 🌐 联系方式
-
-```text
-GitHub: https://github.com/YourName
-邮箱: your@email.com
-博客: 持续建设中...
-```
-
----
-
 # 🐍 贡献图动画
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YourName/YourName/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/huaban-77/huaban-77/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
